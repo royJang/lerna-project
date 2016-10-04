@@ -1,0 +1,27 @@
+{
+  "name": "autoversion",
+  "version": "1.0.0",
+  "description": "manage npm package version",
+  "bin": {
+    "av": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "av auto; npm publish"
+  },
+  "keywords": [
+    "autoversion"
+  ],
+  "author": "zhangziliang <zhangziliang@shining3d.com> (https://github.com/royJang)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.30.0",
+    "git": "^0.1.5"
+  },
+  "publishConfig": {
+    "registry": "https://repo.3dker.cn/repository/private-npm/"
+  }
+}

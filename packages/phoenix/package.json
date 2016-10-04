@@ -1,0 +1,30 @@
+{
+  "name": "phoenix",
+  "version": "1.0.0",
+  "description": "phoenix javascript framework",
+  "main": "dist/phoenix.js",
+  "scripts": {
+    "build": "node_modules/babel-cli/bin/babel.js src --out-dir dist; av auto; npm publish;"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "author": "zhangziliang <zhangziliang@shining3d.com> (https://github.com/royJang)",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.0.2",
+    "vue": "^1.0.28",
+    "vue-router": "^0.7.13",
+    "vuex": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://repo.3dker.cn/repository/private-npm/"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}

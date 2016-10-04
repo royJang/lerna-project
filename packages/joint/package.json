@@ -1,0 +1,11 @@
+{
+  "name": "joint",
+  "version": "1.0.0",
+  "description": "joint library",
+  "keywords": [
+    "common library"
+  ],
+  "author": "zhangziliang <zhangziliang@shining3d.com> (https://github.com/royJang)",
+  "license": "ISC",
+  "dependencies": {}
+}
