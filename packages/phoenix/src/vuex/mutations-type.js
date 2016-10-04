@@ -1,0 +1,5 @@
+export const DATA_SET = 'DATA_SET'
+export const SYSTEM_BUSY = 'SYSTEM_BUSY'
+export const SYSTEM_IDLE = 'SYSTEM_IDLE'
+export const NETWORK_BUSY = 'NETWORK_BUSY'
+export const NETWORK_IDLE = 'NETWORK_IDLE'

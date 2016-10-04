@@ -1,0 +1,27 @@
+{
+  "dirs": [
+    "/templates/.babelrc",
+    "/templates/.eslintignore",
+    "/templates/.eslintrc.js",
+    "/templates/.gitignore",
+    "/templates/build",
+    "/templates/dist",
+    "/templates/index.html",
+    "/templates/main.js",
+    "/templates/package.json",
+    "/templates/server",
+    "/templates/statics",
+    "/templates/views",
+    "/templates/build/css-loaders.js",
+    "/templates/build/dev-client.js",
+    "/templates/build/dev-server.js",
+    "/templates/build/webpack.base.conf.js",
+    "/templates/build/webpack.dev.conf.js",
+    "/templates/build/webpack.prod.conf.js",
+    "/templates/dist/statics",
+    "/templates/server/model.js",
+    "/templates/statics/reset.css",
+    "/templates/views/index.vue",
+    "/templates/dist/statics/reset.css"
+  ]
+}

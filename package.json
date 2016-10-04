@@ -1,0 +1,15 @@
+{
+  "name": "phoenix-framework",
+  "version": "1.0.0",
+  "description": "phoenix javascript framework",
+  "author": "zhangziliang <zhangziliang@shining3d.com> (https://github.com/royJang)",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "publishConfig": {
+    "registry": "https://repo.3dker.cn/repository/private-npm/"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0-beta.29"
+  }
+}

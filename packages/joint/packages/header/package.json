@@ -1,0 +1,13 @@
+{
+  "name": "joint-p-header",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "zhangziliang <zhangziliang@shining3d.com> (https://github.com/royJang)",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "vuex": "^2.0.0"
+  }
+}
